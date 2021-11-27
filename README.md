@@ -9,13 +9,17 @@ Hello there, I'm actively progressing front-end developer from Moscow (Russia). 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=fff)
 ![SCSS](https://img.shields.io/badge/-SCSS-c69?style=flat&logo=sass&logoColor=fff)
 ![Pug](https://img.shields.io/badge/-Pug-a86454?style=flat&logo=pug&logoColor=fff)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vue.js&logoColor=fff)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00dc82?style=flat&logo=nuxt.js&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat&logo=php&logoColor=fff)
 
 ### Tools I use
 
 ![git](https://img.shields.io/badge/-git-f05032?style=flat&logo=git&logoColor=fff)
 ![Gulp](https://img.shields.io/badge/-Gulp-cf4647?style=flat&logo=gulp&logoColor=fff)
+![webpack](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat&logo=webpack&logoColor=fff)
 ![npm](https://img.shields.io/badge/-npm-cb3837?style=flat&logo=npm&logoColor=fff)
+![Yarn](https://img.shields.io/badge/-Yarn-2c8ebb?style=flat&logo=yarn&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-f24e1e?style=flat&logo=figma&logoColor=fff)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31a8ff?style=flat&logo=adobephotoshop&logoColor=fff)
 
