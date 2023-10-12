@@ -13,7 +13,6 @@ Hello there, I'm actively progressing front-end developer from Moscow (Russia). 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vue.js&logoColor=fff)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00dc82?style=flat&logo=nuxt.js&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat&logo=php&logoColor=fff)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=fff)
 
 ### Tools I use
 
@@ -23,8 +22,6 @@ Hello there, I'm actively progressing front-end developer from Moscow (Russia). 
 ![npm](https://img.shields.io/badge/-npm-cb3837?style=flat&logo=npm&logoColor=fff)
 ![Yarn](https://img.shields.io/badge/-Yarn-2c8ebb?style=flat&logo=yarn&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-f24e1e?style=flat&logo=figma&logoColor=fff)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31a8ff?style=flat&logo=adobephotoshop&logoColor=fff)
-![Unity](https://img.shields.io/badge/-Unity-000?style=flat&logo=unity&logoColor=fff)
 
 ## My GitHub stats
 
